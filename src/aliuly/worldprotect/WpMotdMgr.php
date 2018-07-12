@@ -40,6 +40,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\entity\EntityLevelChangeEvent;
 use pocketmine\Player;
+use pocketmine\Server;
 use aliuly\worldprotect\common\PluginCallbackTask;
 use aliuly\worldprotect\common\mc;
 
